@@ -1,9 +1,7 @@
-# Header
-
-Fiona Barry
-04/13/2022
-COP4520
-Assignment 3
+## Fiona Barry
+## 04/13/2022
+## COP4520
+## Assignment 3
 
 # Minatour's Presents
 

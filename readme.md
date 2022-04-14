@@ -1,7 +1,7 @@
-## Fiona Barry
-## 04/13/2022
-## COP4520
-## Assignment 3
+<p align="right">Fiona Barry<p>
+<p align="right">04/13/2022<p>
+<p align="right">COP4520<p>
+<p align="right">Assignment 3<p>
 
 # Minatour's Presents
 

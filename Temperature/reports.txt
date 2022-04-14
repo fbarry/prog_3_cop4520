@@ -1,0 +1,30 @@
+
+ ------------------------------- Report #1 ------------------------------- 
+
+The five highest reported temperatures were: 70 70 69 67 66
+The five lowest reported temperatures were: -100 -100 -100 -99 -98
+The largest difference in temperatures was 170 between 7 and 17
+
+ ------------------------------- Report #2 ------------------------------- 
+
+The five highest reported temperatures were: 70 70 70 70 69
+The five lowest reported temperatures were: -100 -100 -100 -100 -99
+The largest difference in temperatures was 170 between 8 and 18
+
+ ------------------------------- Report #3 ------------------------------- 
+
+The five highest reported temperatures were: 70 70 70 70 70
+The five lowest reported temperatures were: -100 -100 -100 -99 -99
+The largest difference in temperatures was 170 between 0 and 10
+
+ ------------------------------- Report #4 ------------------------------- 
+
+The five highest reported temperatures were: 70 70 69 69 69
+The five lowest reported temperatures were: -100 -100 -99 -99 -99
+The largest difference in temperatures was 169 between 30 and 40
+
+ ------------------------------- Report #5 ------------------------------- 
+
+The five highest reported temperatures were: 70 69 69 68 68
+The five lowest reported temperatures were: -100 -100 -100 -100 -100
+The largest difference in temperatures was 170 between 42 and 52

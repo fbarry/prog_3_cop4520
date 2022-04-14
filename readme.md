@@ -14,7 +14,7 @@
 
 ### Solution
 
-The issue with the non-concurrent linked list is that more than one servant might write a "Thank you" note before removing the present. Therefore, you end up with more "Thank you" notes than presents.
+The issue with the non-concurrent linked list is that more than one servant might write a "Thank you" note before removing the present. Therefore, you end up with more "Thank you" notes than presents. In another situation, multiple presents might be removed if two or more servants choose the same present and go to remove it without double checking the index they are removing. Each servant would remove a project without guaranteeing it's the correct one, causing more notes than presents.
 
 The concurrent linked list solves this problem by protecting resources and ensuring that when updating, removing, or marking a "next" node, that node is the intended node to change in case another thread is removing or editing that node).
 
